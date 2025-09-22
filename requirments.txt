@@ -1,0 +1,8 @@
+numpy
+networkx
+pytest
+matplotlib
+qiskit
+qiskit-ibm-runtime
+qiskit-aer
+pandas
